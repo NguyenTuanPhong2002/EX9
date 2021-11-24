@@ -1,0 +1,18 @@
+﻿.forn_box{
+    text-align:center;
+    border: solid 1px #000000;
+}
+.box {
+    display: inline-block;
+    padding: 10px 0px 10px 0px;
+    padding: 20px 50px 10px 50px;
+    text-align: center;
+    overflow: hidden;
+}
+.form_in{
+    float:left;
+
+}
+.form_infor{
+    float:right;
+}

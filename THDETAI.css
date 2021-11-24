@@ -1,0 +1,33 @@
+﻿.header {
+    text-align: center;
+    border: solid 1px #000000;
+    background: #ede3e7;
+    padding: 10px 0px 10px 0px;
+}
+.contener {
+    text-align: center;
+    display:inherit;
+}
+.main {
+    text-align: center;
+    display: inline-block;
+    border: solid 1px #000000;
+}
+.infor{
+    display:inherit;
+}
+    .main tr {
+        display: inherit;
+        border: solid 1px #000000;
+        padding: 10px 10px 10px 10px;
+    }
+    .main th,td {
+        display: inline-block;
+        border: solid 1px #000000;
+        padding: 10px 10px 10px 10px;
+        height:30px;
+        width:200px;
+    }
+.form_input{
+    display:inline;
+}
